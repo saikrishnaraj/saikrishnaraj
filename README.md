@@ -27,7 +27,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="5%" height="5%">
   <img src="https://angular.io/assets/images/logos/angular/angular.png" width="5%" height="5%">
   <img src="https://cdn.volaresystems.com/Images/Posts/2019/12/aspnet_logo.png" width="5%" height="5%">
-  <img src="http://assets.stickpng.com/thumbs/58481021cef1014c0b5e494b.png" width="5%" height="5%">
 
   
 </p>
