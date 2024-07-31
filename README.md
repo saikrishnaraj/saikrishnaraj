@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Angular and .NET
 - 🌱 I’m currently learning Flutter and GraphQL
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on web development applications
 - 💬 Ask me about Data Structures
 - 📫 How to reach me: saikrishnaraj1999@gmail.com
 - 😄 Pronouns: he/him
